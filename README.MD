@@ -12,7 +12,7 @@ Então rodei a análise de sentimento via [Azure Language Studio](https://langua
 Achei muito interessante que ele separa o texto por sentenças e permite identificar uma análise mista, por exemplo essa primeira que subi que é uma review positiva porém começa com uma crítica não ao restaurante mas as opções veganas em outros lugares:
 
 ### Sentença Negativa
-![Printscreen negativa](https://github.com/falatfernando/ai-900-lab3/blob/main/negativa.png?raw=true)
+![Printscreen negativa](https://github.com/falatfernando/ai-900-lab3/blob/main/negativo.png?raw=true)
 
 ### Sentença Positiva
-![Printscreen negativa](https://github.com/falatfernando/ai-900-lab3/blob/main/positiva.png?raw=true)
+![Printscreen negativa](https://github.com/falatfernando/ai-900-lab3/blob/main/positivo.png?raw=true)
